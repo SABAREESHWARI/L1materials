@@ -1,0 +1,244 @@
+1. The frameworks available for automation are:
+
+
+	a.	Data-Driven automation framework
+	b.	Hybrid automation framework
+	c.	Keyword-Driven automation framework
+d.	Behavioural-Driven Development
+
+2. Component based framework is an _______________________ automation 
+framework.
+
+	a.	Hybrid
+b.	Manual
+c.	keyword driven
+
+
+3.	________________________________ type of framework, data is 
+provided from external source.
+
+a.	Keyword driven
+b.	Hybrid
+	c.	data-driven
+
+
+4.	Keyword driven framework is also known as___________________________________
+
+	a.	table driven
+b.	Hybrid
+c.	data-driven
+	
+
+
+5.	Table–Driven framework requires development of ___________________________ and _______________.
+
+a.	data,tables
+	b.	data tables,keywords.
+c.	form,table
+
+6) Which are the methods that come under UI Wrapper
+
+A. SetValue()
+B. Click()
+C. GetCtrlProperty()
+D. All the above
+Ans: D
+
+
+7) _____________________selenium allows you to create Automatic tests.
+
+Ans: Component Based.
+
+8) Selenium IDE test cases can be exported in which of 
+		the programming languages
+
+A. Java (IDE exported in Java)
+B. rb (IDE exported in Ruby)
+C. py (IDE exported in Python)
+D. cs (IDE exported in C#)
+Ans: A,B,C,D
+
+
+9) CBF is designed to help test analysis 
+	and engineers build and automate tests using ______
+
+Ans: Abstraction
+
+9) We use _________  Automation Framework for Automation project.
+
+Ans: Modular Based Hybrid
+
+10) The Selenium IDE test cases can be saved in _____ format.
+Ans: HTML.
+
+
+11) ______ Logs an error in a cvs file, thus helps in tracking error.
+
+A) Error Handler
+B) Result Logger
+C) Report Manager
+
+Ans: Error Handler.
+
+12) It refers to either hardware or software or thr combination of both.
+
+
+A) Component Libraries
+B) Configuration
+C) Component Data
+
+Ans: Configuration.
+
+
+13) What are the formats that reports output in?
+	
+	HTML/Excel/PDF formats.
+
+14)What are the types of reports provided?
+	
+	Summary reports & detailed report.
+
+15)What details are provided by the summary report?
+	
+	Execution duration,test start time & end time.
+
+16)What details are described by the detailed report?
+	
+	Exceptional cases handled, steps passed &failed.
+
+17)State TRUE OR FALSE
+
+	Test driven development is s/w development process that relies on the repetition of a very short development life cycle.
+	
+ANS:	TRUE
+FALSE
+
+
+18) State TRUE OR FALSE
+
+	Acceptance TDD(ATDD) is a development methodology based on communication between the business customers, the developers and testers.
+	Ans)	TRUE
+FALSE
+
+19) State TRUE OR FALSE
+
+	We can write many Acceptance test cases with ATDD
+	Ans)	FALSE
+TRUE
+
+20) what does Fitnesse executable include?(CHECKBOX)
+	
+	A)Fitnesse is a webserver, 
+	B)a wiki and an automated testing tool software.
+	
+21) State TRUE OR FALSE
+	
+	Fitnesse approach generates very fast feedback from users.
+	
+	A)TRUE
+FALSE
+	
+22) Fitnesse is written in _______ language?
+
+	A)JAVA
+
+23)	Summary report provides details of _________
+	
+	A: Execution duration, test start time and End time
+
+24)	Detailed report describes____________
+	
+	A: Exceptional cases handled, steps passed, steps failed
+
+25)	 Which frame work supports concepts of ATDD and BDD?
+
+ANS:	A: Specflow
+
+
+26)	   FitNesse as a testing method supports__________
+
+	A: Agile style of black-box testing acceptance and regression testing
+
+27)	________software tool is used for testing other software
+	
+	Ans: A.Cucumber
+	B:GRUNT
+
+
+28) What sort of coding language is Gherkin?
+a.	Machine Language
+b.	English Language
+	c.	Structured natural Language
+d.	Assembly Language
+
+29) Specflow provides integration to (Checkbox)
+
+	a.	.Net framework
+	b.	Silver light
+	c.	Windows phone
+d.	ATDD
+	e.	Mono
+
+30) Which bridges gap between domain expert and developer 
+by binding business readable behaviour?
+
+a.	ATDD
+	b.	Specflow
+c.	Continuous Integration
+d.	BTDD
+
+31) Is specflow a testing framework?
+
+	True 
+False
+
+32) The concepts supported by Specflow are -------------- and -----------------
+
+a.	TDD,CI
+	b.	ATDD,BDD
+c.	Jenkins,BSD
+
+33) --------------- is the practice of merging all developer working copies 
+to a shared mainline several times a day.
+
+a. BDD
+b. ATDD
+	c. Continuous Integration
+d. Spec flow
+
+34) What would be done to avoid pitfalls in Continuous Integration?
+
+	a.	integrate early and often.
+b.	integrate later and regular
+c.	test regular
+d.	cyclic testing
+
+35) Integration test are run automatically on which server when 
+it detects new commit?
+
+a.	client server
+b.	CI server
+c.	Local server
+
+36) Which is a server based system running in a servlet container such as 
+Apache Tomcat?
+
+a.	Specflow
+b.	CI
+	c.	Jenkins
+d.	ATDD.
+
+37) ----------------- change the way Jenkin looks or add new functionality?
+
+
+a.	Testint tool
+	b.	Plugin
+c.	Model
+
+
+38) Jenkins can dipalay the reports and generate trends and render them in --------------
+
+
+a.	Report
+b.	Excel sheet
+	c.	GUI
